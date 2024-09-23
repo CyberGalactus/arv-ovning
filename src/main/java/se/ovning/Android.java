@@ -1,6 +1,6 @@
 package se.ovning;
 
-public class Android {
+public class Android extends Mobiles{
     String android_version;
 
     public String getAndroid_version() {
